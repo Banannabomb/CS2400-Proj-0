@@ -7,6 +7,7 @@
 //
 // Description:
 // A program which takes a month and a year and outputs a calendar for that month and year
+// Used in Project 0 for 2400
 //
 import java.io.*;
 import java.util.Scanner;
